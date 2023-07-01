@@ -1,3 +1,5 @@
+Student-Management-System-with-CSharp--OgrenciOtomasyon-OBS
+
 The database folder contains MDF, LDF, and SQL files. You can easily add the database from MSSQL. The naming conventions have been done in Turkish.
 
 This project focuses on the design and development of a small-scale student automation 
